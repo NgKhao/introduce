@@ -6,7 +6,7 @@ body, html{
     padding: 0;
 }
 body{
-    background: url(./anh4.gif) no-repeat center fixed;
+    background: url(./picture/anh4.gif) no-repeat center fixed;
     background-size:cover;
 }
 img{
